@@ -1,0 +1,6 @@
+[
+            { "FirstName": "Justin", "LastName": "Herman", "Address": "1 Market St", "City": "San Francisco", "State": "CA", "Zip": "94133" },
+            { "FirstName": "Michael", "LastName": "Lehmann", "Address": "145 Jefferson Street", "City": "Pontiac", "State": "MI", "Zip": "48342" },
+            { "FirstName": "Barak", "LastName": "Obama", "Address": "1600 Pennsylvania Ave NW", "City": "Washington", "State": "DC", "Zip": "20500" },
+            { "FirstName": "Pavan ", "LastName": "Kalyan", "Address": "Plot No.5,Road No.9,Jubilee Hills", "City": "Hyderabad", "State": "TS", "Zip": "500033" }
+        ]
